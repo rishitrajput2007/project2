@@ -58,10 +58,10 @@ logic-box/
 # 📸 Output Screenshots
 
 ## Output 1
-![Output 1](OUTPUT/output2.png)
+![Output 1](OUTPUT/output2_1.png)
 
 ## Output 2
-![Output 2](OUTPUT/output2.1.png)
+![Output 2](OUTPUT/output2_2.png)
 
 ---
 
