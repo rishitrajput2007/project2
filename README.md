@@ -67,7 +67,7 @@ logic-box/
 
 # 🎥 Project Demo Video
 
-👉 [Watch Demo Video Here](PASTE_YOUR_VIDEO_LINK_HERE)
+👉 [Watch Video Here](https://drive.google.com/file/d/1eDEylEgRSuxBrvaIIEFy1cWuDcan24cj/view?usp=sharing)
 
 ---
 
