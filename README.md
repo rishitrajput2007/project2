@@ -50,7 +50,7 @@ logic-box/
 ├── Logic box.py
 ├── output.png
 ├── README.md
-└── demo_video_link.txt
+└── video_link.txt
 ```
 
 ---
